@@ -1,0 +1,25 @@
+AntiVirusFolder
+Calibre Library
+cmus
+Desktop
+Documents
+Downloads
+Dropbox
+GNUstep
+keras
+Library
+mail
+Mail
+Music
+PDF
+perl5
+Pictures
+Public
+R
+snap
+src
+Stellarium
+t
+Templates
+tmp
+Videos
